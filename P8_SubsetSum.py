@@ -31,6 +31,7 @@ if(isSubsetSum(set,n,sum)==True):
     print("Found a subset with given sum")
 else:
     print("No subset with given sum")
+    print("Nothing")
 
 
 
